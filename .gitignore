@@ -1,0 +1,24 @@
+# Ignore folders không cần thiết trên GitHub
+NOI_DUNG_NOP_BAI/
+TAI_LIEU_HUONG_DAN/
+CAU_TRUC_DU_AN.md
+DeBai.md
+TEMPLATE_PDF_HOAN_CHINH.md
+z7451071197860_c73cf9cc59f3d17cdeffb0f721cd18b0.jpg
+
+# Python cache
+__pycache__/
+*.pyc
+*.py[cod]
+
+# Virtual Environment
+venv/
+env/
+
+# IDE
+.vscode/
+.idea/
+
+# OS
+.DS_Store
+Thumbs.db

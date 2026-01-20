@@ -1,0 +1,4 @@
+# Không cần thư viện ngoài cho project này
+# Python standard library là đủ
+# pytest (optional) - để chạy unit tests với output đẹp hơn
+pytest>=7.0.0
